@@ -7,27 +7,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Pelajaran
 
 ```
-# Header 1
-## Header 2
-### Header 3
+# Pemrograman 1
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    Chapter 1   : Perkenalan
+    Chapter 2   : Variabel dan Tipe Data
+    Chapter 3   : Masukkan, Keluaran dan Percabangan
+    Chapter 4   : Perulangan
+    Chapter 5   : Array
+    Chapter 6   : Fungsi dan Prosedur
+    Chapter 7   : String
+    Chapter 8   : Pengurutan
+    Chapter 9   : Pencarian
+    Chapter 10  : Rekursi
+    
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alamsyah10/alamsyah/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
