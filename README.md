@@ -6,11 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Pelajaran
 
-```
-# Pemrograman 1
+### Pemrograman 1
 
-    Chapter 1   : Perkenalan
-    Chapter 2   : Variabel dan Tipe Data
+Chapter 1   : [Perkenalan](https://training.ia-toki.org/training/curriculums/1/courses/1/chapters/1/problems/1/)
+
+Chapter 2   : [Variabel dan Tipe Data](https://training.ia-toki.org/training/curriculums/1/courses/1/chapters/2/lessons/9/)
+
     Chapter 3   : Masukkan, Keluaran dan Percabangan
     Chapter 4   : Perulangan
     Chapter 5   : Array
@@ -19,8 +20,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     Chapter 8   : Pengurutan
     Chapter 9   : Pencarian
     Chapter 10  : Rekursi
-    
-```
 
 
 
